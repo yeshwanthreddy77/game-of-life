@@ -57,7 +57,7 @@
                     </archive>
                 </configuration>
             </plugin>
-            <plugin>
+            <!-- <plugin>
                 <groupId>net.thucydides.maven.plugins</groupId>
                 <artifactId>maven-thucydides-plugin</artifactId>
                 <version>${thucydides.version}</version>
@@ -70,7 +70,7 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
+            </plugin> --> 
         </plugins>
     </build>
     <profiles>
